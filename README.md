@@ -9,4 +9,4 @@ _Designed an informative system of an online clock. This application can be foun
 
 ![clock2](https://github.com/user-attachments/assets/1e720fcd-c033-42be-aaef-889c80bfb16d)
 
-_This repository represents,"**A Clock.**"_
+- _This repository represents,"**A Clock.**"_
